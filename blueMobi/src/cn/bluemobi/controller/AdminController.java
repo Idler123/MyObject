@@ -13,7 +13,7 @@ import cn.bluemobi.util.helper.JsonHelper;
 /**
  * 父类控制器，为所有子类控制器提供公共方法
  * 
- * @author 雷攀
+ * @author 我自己
  * 
  */
 public class AdminController {
